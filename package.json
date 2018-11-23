@@ -1,0 +1,16 @@
+{
+    "name": "img-scale",
+    "version": "1.0.0",
+    "description": "Image scaling microservice",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "micro"
+    },
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+        "micro": "^9.3.3",
+        "sharp": "^0.21.0"
+    }
+}
